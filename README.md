@@ -1,6 +1,6 @@
-# Pytest Skip Test & XFail Example
+# Pytest Timeout Test Example
 
-This repo contains the sample code for the article - [An Ultimate Guide To Using Pytest Skip Test And XFail - With Examples](https://pytest-with-eric.com/pytest-best-practices/pytest-skip-test//)
+[//]: # (This repo contains the sample code for the article - [An Ultimate Guide To Using Pytest Skip Test And XFail - With Examples]&#40;https://pytest-with-eric.com/pytest-best-practices/pytest-skip-test//&#41;)
 
 
 # Requirements
