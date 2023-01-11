@@ -19,7 +19,8 @@ def calculate_factorial(num: int, delay: int) -> int:
     factorial = 1
     time.sleep(delay)  # Change to test delays
     if num < 0:
-        raise ValueError("Sorry, cannot calculate factorial for negative numbers")
+        raise ValueError("Sorry, cannot calculate "
+                         "factorial for negative numbers")
     elif num == 0:
         return 1
     else:
